@@ -1,0 +1,17 @@
+[
+  { "id": 1, "title": "Study Next.js basics", "done": false },
+  { "id": 2, "title": "Build Task Manager app", "done": true },
+  { "id": 3, "title": "Learn App Router", "done": false },
+  { "id": 4, "title": "Practice API routes", "done": true },
+  { "id": 5, "title": "Create Navbar component", "done": false },
+  { "id": 6, "title": "Build AddTaskForm", "done": true },
+  { "id": 7, "title": "Learn Server Components", "done": false },
+  { "id": 8, "title": "Understand Client Components", "done": true },
+  { "id": 9, "title": "Work with fetch in Next.js", "done": false },
+  { "id": 10, "title": "Build CRUD API", "done": true },
+  { "id": 11, "title": "Connect frontend with API", "done": false },
+  { "id": 12, "title": "Add loading UI", "done": true },
+  { "id": 13, "title": "Handle errors properly", "done": false },
+  { "id": 14, "title": "Style app with Tailwind", "done": true },
+  { "id": 15, "title": "Deploy project", "done": false }
+]
