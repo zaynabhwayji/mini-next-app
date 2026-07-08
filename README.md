@@ -7,8 +7,27 @@ The application allows users to browse tasks, view task details, add new tasks, 
 ---
 
 ## Preview
+### Home Page
 
-> Screenshots will be added soon.
+![Tasks Page](public/screenshots/home.png)
+
+### Tasks Page
+
+![Tasks Page](public/screenshots/tasks.png)
+
+
+
+### Tasks Page
+
+![Tasks Page](public/screenshots/taskdetails.png)
+
+
+
+### Edit Task Page
+
+![Edit Task Page](public/screenshots/edit-task.png)
+
+![Edit Task Page Change Status](public/screenshots/editchangestatus.jpg)
 
 ---
 
