@@ -15,10 +15,6 @@ The application allows users to browse tasks, view task details, add new tasks, 
 
 ![Tasks Page](public/screenshots/tasks.png)
 
-
-
-### Tasks Page
-
 ![Tasks Page](public/screenshots/taskdetails.png)
 
 
